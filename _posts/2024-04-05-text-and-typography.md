@@ -8,7 +8,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: https:https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/e2a28cd6ly1hogddm8047j20xc0hi7aj.jpg
+  path: https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/e2a28cd6ly1hogddm8047j20xc0hi7aj.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
