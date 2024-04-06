@@ -8,6 +8,7 @@ cdns:
   # polyfill.io for math (cdnjs.cloudflare.com/polyfill)
   - url: https://cdnjs.cloudflare.com
   - url: https://registry.npmmirror.com
+  - url: https://res.cloudinary.com
 
 # fonts
 
