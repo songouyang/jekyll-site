@@ -1,18 +1,14 @@
 # CDNs
 
 cdns:
-  # Google Fonts
-  - url: https://fonts.googlefonts.cn
-  - url: https://fonts.gstatic.googlefonts.cn
-    args: crossorigin
-  # polyfill.io for math (cdnjs.cloudflare.com/polyfill)
   - url: https://cdnjs.cloudflare.com
   - url: https://registry.npmmirror.com
   - url: https://res.cloudinary.com
+  - url: https://lib.baomitu.com
 
 # fonts
 
-webfonts: https://fonts.googlefonts.cn/css2?family=Lato:wght@300;400;600;700;900&display=swap
+webfonts: /assets/lib/fonts/main.css
 
 # Libraries
 
