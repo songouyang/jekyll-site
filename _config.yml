@@ -38,6 +38,7 @@ social:
   email: songouyang@live.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.ouyangsong.com
     - https://github.com/songouyang # change to your github homepage
     - https://twitter.com/songouyang # change to your twitter homepage
     # Uncomment below to add more social links
