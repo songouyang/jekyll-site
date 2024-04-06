@@ -4,7 +4,6 @@ cdns:
   - url: https://cdnjs.cloudflare.com
   - url: https://registry.npmmirror.com
   - url: https://res.cloudinary.com
-  - url: https://lib.baomitu.com
 
 # fonts
 
